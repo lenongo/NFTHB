@@ -43,5 +43,8 @@
     "*.{js,ts,tsx}": "eslint --cache --fix",
     "*.{js,ts,tsx,md,json}": "prettier --write"
   },
-  "homepage": "https://github.com/HayattiQ/NFTBoil#readme"
+  "homepage": "https://github.com/HayattiQ/NFTBoil#readme",
+  "dependencies": {
+    "pnpm": "^7.21.0"
+  }
 }

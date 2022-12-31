@@ -14,7 +14,7 @@ import "@openzeppelin/contracts/token/ERC721/extensions/ERC721Pausable.sol";
 import "@openzeppelin/contracts/token/common/ERC2981.sol";
 
 
-contract NFTHappyBag2023 is ERC721Enumerable, ERC2981, Ownable, Pausable {
+contract NFTHappyBag is ERC721Enumerable, ERC2981, Ownable, Pausable {
     using Strings for uint256;
 
     string public baseURI = "";

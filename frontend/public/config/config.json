@@ -1,5 +1,5 @@
 {
-  "CONTRACT_ADDRESS": "0x807cdaf7EfDFB9834CEc8b09EE6F464e3FBd8Dd0",
+  "CONTRACT_ADDRESS": "0xa49a2DfA0301E61Ac2660CcE513E63f50bA33c25",
   "SCAN_LINK": "https://rinkeby.etherscan.io/address/0x807cdaf7EfDFB9834CEc8b09EE6F464e3FBd8Dd0",
   "NETWORK": {
     "NAME": "Goerli",
@@ -16,6 +16,6 @@
   "PAUSED": false,
   "MARKETPLACE": "OpenSea",
   "MARKETPLACE_LINK": "https://opensea.io/",
-  "MAX_MINT_AMOUNT_PRE": 5,
+  "MAX_MINT_AMOUNT_PRE": 10,
   "MAX_MINT_AMOUNT_PUBLIC": 10
 }

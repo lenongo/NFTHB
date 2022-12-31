@@ -104,3 +104,5 @@ generate/assets/
 
 # MAC
 .DS_Store
+
+pnpm-lock.yaml
